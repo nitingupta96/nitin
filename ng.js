@@ -1,0 +1,1 @@
+alert("Detail's form")
